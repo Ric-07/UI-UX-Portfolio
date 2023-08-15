@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/UI-UX-Portfolio/static/css/main.36adfd48.css",
+    "main.js": "/UI-UX-Portfolio/static/js/main.1447e274.js",
+    "static/media/UIimg.jpg": "/UI-UX-Portfolio/static/media/UIimg.7382836d65fbd7e8d04c.jpg",
+    "static/media/UIimg2.jpg": "/UI-UX-Portfolio/static/media/UIimg2.1ba98b008831f3451c67.jpg",
+    "static/media/Project1.jpg": "/UI-UX-Portfolio/static/media/Project1.851923dee9efb5f4f0e7.jpg",
+    "static/media/Project2.jpg": "/UI-UX-Portfolio/static/media/Project2.df64b7791dabf721c941.jpg",
+    "static/media/Project3.jpg": "/UI-UX-Portfolio/static/media/Project3.9319eb2ca842f61e6388.jpg",
+    "static/media/intro-bg.jpg": "/UI-UX-Portfolio/static/media/intro-bg.a77c124b1a6229ee3b02.jpg",
+    "index.html": "/UI-UX-Portfolio/index.html",
+    "main.36adfd48.css.map": "/UI-UX-Portfolio/static/css/main.36adfd48.css.map",
+    "main.1447e274.js.map": "/UI-UX-Portfolio/static/js/main.1447e274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36adfd48.css",
+    "static/js/main.1447e274.js"
+  ]
+}
